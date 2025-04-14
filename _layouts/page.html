@@ -1,0 +1,78 @@
+<!-- _layouts/page.html -->
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    body {
+      font-family: 'Times New Roman', Times, serif;
+      margin: 10;
+      padding: 10;
+      background-color: white;
+      color: black;
+      display: flex;
+      justify-content: flex-end;
+      align-items: top;
+      height: 100vh;
+    }
+
+    /* 页面内容右对齐 */
+    .content {
+      text-align: right;
+      padding: 20px;
+    }
+
+    /* 返回按钮样式 */
+    .back-btn {
+      position: absolute;
+      top: 40px;
+      left: 30px;
+      /* padding: 10px 20px; */
+      /* background-color: #007BFF; */
+      color: black;
+      text-decoration: none;
+      /* border-radius: 5px; */
+      font-size: 1.2rem;
+    }
+
+    .back-btn:hover {
+      background-color: #5c6c7e;
+    }
+
+    .content a {
+      display: block;
+      color: blue;
+      text-decoration: underline;
+      /* margin: 5px 0; */
+    }
+
+    /* 列表项样式 */
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+      display: block;
+      color: blue;
+      text-decoration: underline;
+    }
+
+    ul li {
+      /* margin: 10px 0; */
+      font-size: 18px;
+      display: block;
+      color: blue;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+
+  <article class="page">
+    <div class="content">
+      {{ content }} 
+    </div>
+  </article>
+</body>
+</html>
