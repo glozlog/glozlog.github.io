@@ -59,6 +59,16 @@ collections:
   travel:
     output: true
     permalink: /travel/:name/
+  guilty_pleasures:
+    output: true
+    permalink: /guilty_pleasures/:name/
+    defaults:
+      - scope:
+          path: "_guilty_pleasures"
+          type: "guilty_pleasures"
+        values:
+          layout: "page"
+          show_in_list: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

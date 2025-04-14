@@ -10,7 +10,7 @@ title: on my mind lately...
     {% if site.bookshelf.size > 0 %}
       <ul>
         {% for q in site.questions %}
-          <li><a href="{{ q.url | relative_url }}">{{ q.title }}</a></li>
+          <a href="{{ q.url | relative_url }}">{{ q.title }}</a>
         {% endfor %}
       </ul>
     {% else %}

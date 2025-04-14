@@ -10,7 +10,7 @@ title: bookshelf
 {% if site.bookshelf.size > 0 %}
   <ul>
     {% for book in site.bookshelf %}
-      <li><a href="{{ book.url | relative_url }}">{{ book.title }}</a></li>
+      <a href="{{ book.url | relative_url }}">{{ book.title }}</a>
     {% endfor %}
   </ul>
 {% else %}
