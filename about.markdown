@@ -11,8 +11,7 @@ glad to have you here!
 
 guangzhou --> montreal --> ?. with some best pieces of me left (made) in exeter, boston, pittsburgh and shanghai. 
 
-en / mando / canto / fr / kr(?) / jp(...?)
+en / mando / canto / fr / kr(?) 
 
-fencing / golf / tennis / diving (...?)
-
+fencing / golf / tennis 
 
