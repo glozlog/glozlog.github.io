@@ -5,13 +5,15 @@ date:   2025-04-12 23:54:41 -0400
 permalink: /about/
 ---
 
-glad to have you here! 
+welcome! 
 
-26 yr old single cat mom. talking about and building tech stuff for a living (7/3 ratio?). 
+27 yr old, cat mom, third culture kid, athlete. 
 
-guangzhou --> montreal --> ?. with some best pieces of me left (made) in exeter, boston, pittsburgh and shanghai. 
+talk about tech stuff for a living, occasionally also build some. 
+
+guangzhou --> montreal --> hongkong, with some best pieces of me left (made) in exeter, boston, pittsburgh and shanghai. 
 
 en / mando / canto / fr / kr(?) 
 
-fencing / golf / tennis 
+fencing / golf / tennis / books / board games
 
